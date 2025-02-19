@@ -1,0 +1,40 @@
+{
+  "name": "momument.io-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint --fix",
+    "prettier-check": "prettier . --check",
+    "prettier-write": "prettier . --write",
+    "prepare": "husky && husky install",
+    "dev:execute": "dotenvx run -- playwright test",
+    "dev:interface": "dotenvx run -- playwright test --ui",
+    "dev:headed": "dotenvx run -- playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.36.0",
+    "axios": "^1.7.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4",
+    "eslint": "^9.20.1",
+    "globals": "^15.15.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.3",
+    "prettier": "3.5.1",
+    "typescript-eslint": "^8.24.1"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown",
+    "*.ts": "eslint --cache --fix",
+    "*.{ts}": "prettier --write"
+  }
+}

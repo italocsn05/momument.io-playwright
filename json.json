@@ -1,0 +1,274 @@
+{
+  "isLoggedIn": true,
+  "id": "01fd7a00-eccb-11ef-a6ca-27f3c6d0b383",
+  "firstName": "Joe",
+  "lastName": "Doe",
+  "email": "dandan9657@uorak.com",
+  "roleName": "XPTO",
+  "organizationUuids": [
+    "8ad4042f-ec1a-11ef-8fca-d17bad214221",
+    "11111111-1111-1111-1111-111111111111"
+  ],
+  "hasAllFacilityAccess": false,
+  "permissions": {
+    "leads": {
+      "canEdit": true,
+      "canView": true,
+      "canCreate": true,
+      "canDelete": true
+    },
+    "tasks": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "units": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+}
+    "invoice": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "payment": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "reports": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "tenants": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "dashboard": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "ecriWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "promotions": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "unitGroups": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "leadsWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "streetRates": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "inPlaceRents": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "massMessages": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "pricingRules": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "autopayWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "revenueWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "rolesSettings": {
+      "canEdit": true,
+      "canView": true,
+      "canCreate": true,
+      "canDelete": true
+    },
+    "tenantsReport": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "usersSettings": {
+      "canEdit": true,
+      "canView": true,
+      "canCreate": true,
+      "canDelete": true
+    },
+    "singleMessages": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "automationRules": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "financialReport": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "insuranceWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "occupancyReport": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "occupancyWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "revenueInsights": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "investorInsights": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "managementReport": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "netMoveInsWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "unitStatusWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "delinquencyWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "marketingInsights": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "templateDocuments": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "facilitiesSettings": {
+      "canEdit": true,
+      "canView": true,
+      "canCreate": true,
+      "canDelete": true
+    },
+    "operationsInsights": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "storefrontSettings": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "organizationSettings": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "delinquencyManagement": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "eligibleTenantsWidget": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "communicationTemplates": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    },
+    "billingAndTaxesSettings": {
+      "canEdit": false,
+      "canView": false,
+      "canCreate": false,
+      "canDelete": false
+    }
+  }
+}
